@@ -1,0 +1,19 @@
+body {
+  font: "Helvetica Neue";
+  color: gray;
+  font-size: x-large;
+
+}
+
+.nav_link {
+  list-style-type: none;
+  display: inline;
+}
+
+#profile_picture {
+  background-image: url("http://tse1.mm.bing.net/th?&id=OIP.M103650e62e08d0bbc3491ee94dc1fa0do0&w=300&h=206&c=0&pid=1.9&rs=0&p=0&r=0");
+  background-repeat: none;
+  background-size: cover;
+  width: : 400px;
+  height: 400px;
+}
