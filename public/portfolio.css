@@ -30,6 +30,10 @@ header {
   display: inline;
 }
 
+#principal {
+  display: inline;
+  padding: 50px;
+}
 #profile_picture {
 height: 180px;
 background-color: #F5F5F5;
